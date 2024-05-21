@@ -1,0 +1,2 @@
+# AzureScripts
+Collection of Scripts
